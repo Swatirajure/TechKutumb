@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- User ID 	 : MGSOPS\TerayneP-->
+<!-- Date 	 : 28-Sep-2021 10:47:33-->
+<Test>
+  <Key moduleID="10890" clientID="50300" loginName="oz1" />
+  <Slot>
+    <ReelSet name="B2">
+      <ReelPos symbols="F,C,X1,H,J" indexes="0,0,21,32,4" />
+    </ReelSet>
+  </Slot>
+  <TriggerConditions>
+    <TriggerCondition id="0" randomValues="1" />
+    <TriggerCondition id="246" triggeredEffect="8" />
+  </TriggerConditions>
+</Test>
